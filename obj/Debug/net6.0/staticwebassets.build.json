@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5wigze3QW2Ne8Vgp5xiOSzq61a61NtOQ60l8J9DJqFs=",
+  "Hash": "IgPXPNbpyV9xuqmR4ymSciH+mj7R/AeO+Ujo5vBzjOE=",
   "Source": "DotNetCore6WebMVCPractice",
   "BasePath": "_content/DotNetCore6WebMVCPractice",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\VSCode Project\\DotNetCore6WebMVCPractice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DotNetCore6WebMVCPractice.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\VSCode Project\\DotNetCore6WebMVCPractice\\wwwroot\\css\\bootsWatchTheme.css",
+      "SourceId": "DotNetCore6WebMVCPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\VSCode Project\\DotNetCore6WebMVCPractice\\wwwroot\\",
+      "BasePath": "_content/DotNetCore6WebMVCPractice",
+      "RelativePath": "css/bootsWatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootsWatchTheme.css"
     },
     {
       "Identity": "E:\\VSCode Project\\DotNetCore6WebMVCPractice\\wwwroot\\css\\site.css",

@@ -16313,8 +16313,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\VSCode Project\\DotNetCore6WebMVCPractice\\Views\\Category\\Create.cshtml",
+      "TargetPath": "Views\\Category\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\VSCode Project\\DotNetCore6WebMVCPractice\\Views\\Shared\\_Notification.cshtml",
+      "TargetPath": "Views\\Shared\\_Notification.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\VSCode Project\\DotNetCore6WebMVCPractice\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\VSCode Project\\DotNetCore6WebMVCPractice\\Views\\Category\\Edit.cshtml",
+      "TargetPath": "Views\\Category\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\VSCode Project\\DotNetCore6WebMVCPractice\\Views\\Category\\Delete.cshtml",
+      "TargetPath": "Views\\Category\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16330,6 +16350,11 @@
     {
       "FilePath": "e:\\VSCode Project\\DotNetCore6WebMVCPractice\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\VSCode Project\\DotNetCore6WebMVCPractice\\Views\\Category\\Index.cshtml",
+      "TargetPath": "Views\\Category\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
